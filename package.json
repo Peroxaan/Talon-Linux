@@ -1,0 +1,19 @@
+{
+  "name": "talon-linux",
+  "version": "1.0.0",
+  "description": "A webhook manager for Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peroxaan/Talon-Linux.git"
+  },
+  "author": "Michael Burkhardt / Peroxaan Studios, LLC",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Peroxaan/Talon-Linux/issues"
+  },
+  "homepage": "https://github.com/Peroxaan/Talon-Linux#readme"
+}
