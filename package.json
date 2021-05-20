@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Peroxaan/Talon-Linux/issues"
   },
-  "homepage": "https://github.com/Peroxaan/Talon-Linux#readme"
+  "homepage": "https://github.com/Peroxaan/Talon-Linux#readme",
+  "dependencies": {
+    "node-gtk": "^0.8.1"
+  }
 }
